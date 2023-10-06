@@ -15,5 +15,5 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: all_time # optional
+          # TIME_RANGE: all_time # optional
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
