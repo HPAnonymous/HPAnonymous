@@ -1,4 +1,28 @@
 # HPAnonymous
+<p>
+  <a href="https://twitter.com/HoratioPham98">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HoratioPham98">
+   <a/>
+  <a href="https://stackoverflow.com/users/20403779/illuminati">
+    <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20403779/illuminati">
+   <a/>
+  <a href="https://www.linkedin.com/in/hieuphamuit/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieuphamuit/">
+  <a/>
+   <a href="mailto:phamngochieuuit@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamngochieuuit@gmail.com">
+   <a/>
+</p>
+
+---
+
+- 🏗️ A backend engineer with experience in developing projects on various blockchain platforms.
+- 🌊 I am proficient in working with TypeScript.
+- 🍣 Besides programming, I love watching Anime and reading Manga.
+<!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
 
