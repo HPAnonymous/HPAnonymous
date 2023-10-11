@@ -1,20 +1,21 @@
 # HPAnonymous
-<pre>
-```javascript
+[Nhấn vào đây để lấy thông tin vân tay](javascript:void(0);)
 
-  // Initialize the agent at application startup.
-  // Some ad blockers or browsers will block Fingerprint CDN URL.
-  // To fix this, please use the NPM package instead.
-  const fpPromise = import('https://fpjscdn.net/v3/your-public-api-key')
-    .then(FingerprintJS => FingerprintJS.load());
+<script>
+  document.querySelector('a').addEventListener('click', function () {
+    // Khởi tạo đại lý và lấy thông tin vân tay ở đây
+    const fpPromise = import('https://fpjscdn.net/v3/2JT7cJqsp64gl9op06cj')
+      .then(FingerprintJS => FingerprintJS.load())
 
-  // Get the visitor identifier when you need it.
-  fpPromise
-    .then(fp => fp.get())
-    .then(result => console.log(result.visitorId));
+    fpPromise
+      .then(fp => fp.get())
+      .then(result => {
+        const visitorId = result.visitorId
+        console.log(visitorId)
+      });
+  });
+</script>
 
-```
-</pre>
 <p>
   <a href="https://twitter.com/HoratioPham98">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HoratioPham98">
