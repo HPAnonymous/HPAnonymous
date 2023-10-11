@@ -1,27 +1,4 @@
 # HPAnonymous
-
-<script>
-    // Wait a couple of seconds before a result appears
-  
-    // Initialize the agent at application startup.
-    // Get a public API key at https://dashboard.fingerprintjs.com
-    const fpPromise = import('https://fpjscdn.net/v3/2JT7cJqsp64gl9op06cj')
-      .then(FingerprintJS => FingerprintJS.load({
-        // region: 'eu',
-        // endpoint: 'https://fp.your.com',
-      }))
-  
-    // Get the visitor identifier when you need it.
-    fpPromise
-      .then(fp => fp.get(
-        /* { linkedId: 'your-linked-id', tag: { yourTag: 123456 } } */
-      ))
-      .then(result => {
-        const visitorId = result.visitorId
-        console.log('Your visitorId:', visitorId)
-      })
-      .catch(error => console.error(error))
-  </script>
 <p>
   <a href="https://twitter.com/HoratioPham98">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HoratioPham98">
