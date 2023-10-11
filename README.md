@@ -1,18 +1,18 @@
 # HPAnonymous
 <details>
   <summary>Click to reveal JavaScript code</summary>
-  ```javascript
-  // Initialize the agent on page load.
-  const fpPromise = import('https://fpjscdn.net/v3/2JT7cJqsp64gl9op06cj')
-    .then(FingerprintJS => FingerprintJS.load())
+<script>
+  // Initialize the agent at application startup.
+  // Some ad blockers or browsers will block Fingerprint CDN URL.
+  // To fix this, please use the NPM package instead.
+  const fpPromise = import('https://fpjscdn.net/v3/your-public-api-key')
+    .then(FingerprintJS => FingerprintJS.load());
 
-  // Get the visitorId when you need it.
+  // Get the visitor identifier when you need it.
   fpPromise
     .then(fp => fp.get())
-    .then(result => {
-      const visitorId = result.visitorId
-      console.log(visitorId)
-    })
+    .then(result => console.log(result.visitorId));
+</script>
 </details>
 <p>
   <a href="https://twitter.com/HoratioPham98">
