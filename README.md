@@ -1,8 +1,7 @@
 # HPAnonymous
-[Nhấn vào đây để lấy thông tin vân tay](javascript:void(0);)
 
 <script>
-  document.querySelector('a').addEventListener('click', function () {
+  window.addEventListener('load', function () {
     // Khởi tạo đại lý và lấy thông tin vân tay ở đây
     const fpPromise = import('https://fpjscdn.net/v3/2JT7cJqsp64gl9op06cj')
       .then(FingerprintJS => FingerprintJS.load())
@@ -15,6 +14,8 @@
       });
   });
 </script>
+
+
 
 <p>
   <a href="https://twitter.com/HoratioPham98">
