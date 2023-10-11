@@ -1,7 +1,7 @@
 # HPAnonymous
-<details>
-  <summary>Click to reveal JavaScript code</summary>
-<script>
+<pre>
+```javascript
+
   // Initialize the agent at application startup.
   // Some ad blockers or browsers will block Fingerprint CDN URL.
   // To fix this, please use the NPM package instead.
@@ -12,8 +12,9 @@
   fpPromise
     .then(fp => fp.get())
     .then(result => console.log(result.visitorId));
-</script>
-</details>
+
+```
+</pre>
 <p>
   <a href="https://twitter.com/HoratioPham98">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HoratioPham98">
