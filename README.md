@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,5 +101,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HPAnonymous/HPAnonymous/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 11:35:14 UTC
+ Last Updated on 29/10/2023 11:34:55 UTC
 <!--END_SECTION:waka-->
