@@ -18,7 +18,7 @@
 
 - 🏗️ A backend engineer with experience in developing projects on various blockchain platforms.
 - 🌊 I am proficient in working with TypeScript.
-- 🍣 Besides programming, I love watching Anime and reading Manga.
+- 🍣 Besides programming, I love watching film and plaing game.
 <!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
 
 ---
