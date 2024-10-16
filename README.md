@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,20 +67,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████░░░░░░░░░░░░   50.46 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-JavaScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-accont-shop-api          5 mins              ███████████████████████░░   91.08 % 
-digishop-v1              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +93,5 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HPAnonymous/HPAnonymous/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 11:33:34 UTC
+ Last Updated on 16/10/2024 11:32:36 UTC
 <!--END_SECTION:waka-->
