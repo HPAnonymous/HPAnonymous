@@ -40,45 +40,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                53 commits          █████████░░░░░░░░░░░░░░░░   35.10 % 
-🌆 Daytime                70 commits          ████████████░░░░░░░░░░░░░   46.36 % 
-🌃 Evening                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Tuesday                  27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Thursday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -93,5 +54,5 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HPAnonymous/HPAnonymous/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 11:33:29 UTC
+ Last Updated on 10/11/2024 11:32:27 UTC
 <!--END_SECTION:waka-->
