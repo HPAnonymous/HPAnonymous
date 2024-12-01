@@ -67,16 +67,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-feedback-service         1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,5 +93,5 @@ JavaScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HPAnonymous/HPAnonymous/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 11:32:43 UTC
+ Last Updated on 01/12/2024 11:32:33 UTC
 <!--END_SECTION:waka-->
