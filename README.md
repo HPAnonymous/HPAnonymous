@@ -32,8 +32,6 @@
 
 > 📦 21.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -67,25 +65,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       █████████████████████░░░░   84.48 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-digishop                 2 hrs 22 mins       ███████████████░░░░░░░░░░   58.61 % 
-fadogo-api               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-nftmarketplace-aggregator29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-degen-ref-telegram-bot   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-code-base                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   98.29 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +91,5 @@ JavaScript               2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HPAnonymous/HPAnonymous/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 11:33:54 UTC
+ Last Updated on 11/12/2024 11:32:54 UTC
 <!--END_SECTION:waka-->
